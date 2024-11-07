@@ -1,0 +1,101 @@
+.footer{
+    height: 520px;
+    
+    width: 100%;
+    background-color: rgb(35, 47, 62);
+    line-height: 20px;
+    position: relative;
+    bottom: 0;
+    font-size: 14px;
+    color: white;
+    
+ 
+
+}
+.footer1{
+    height: 300px;
+    width: 100%;
+    background-color:rgb(35, 47, 62);;
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-top: 28px;
+    font-size: 10px;
+    font-weight: 400;
+    border: 1px solid white;
+}
+.footer-header-text{
+    font-size: 14px;
+    font-weight: 700;
+}
+.footer2{
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 50px;
+    bottom: 22;
+    background-color:rgb(35, 47, 62);;
+    border-top: 1px solid rgb(174, 174, 174);
+    display: flex;
+    z-index: 0;
+    align-items: center;
+    
+    justify-content: center;
+    
+}
+.amzaon-logo-footer{
+    
+    height: 45px;
+    width: 100px;
+    margin-right: 30px;
+    background-color:rgb(35, 47, 62);
+    padding-top: 5px;
+}
+.footer-2-text{
+
+    height: 34px;
+    width: 104px;
+    background-color: black;
+    display: flex;
+    border: 1px solid rgb(174, 174, 174);
+    align-items: center;
+    padding-left: 5px;
+}
+.flag-image-footer{
+    height: 34px;
+    width: 80px;
+    background-color: rgb(35, 47, 62);
+    border: 1px solid rgb(174, 174, 174);
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+    font-weight: 400;
+    padding-left: 8px;
+}
+.footer3{
+    height: 165px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-top: 28px;
+    font-size: 10px;
+    font-weight: 400;
+    color: white;
+    position: relative;
+    bottom: 128px;
+    background-color: rgb(19, 26, 34);
+}
+.copy-right{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    height: 30px;
+    font-size: 12px;
+    bottom: 5px;
+    top: 164px;
+    width: 320px;
+    justify-content: center;
+    font-weight: 400;
+}
